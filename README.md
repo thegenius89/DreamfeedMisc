@@ -17,10 +17,12 @@ thurefoken@gmail.com
 ## 2. Erhebung und Verarbeitung personenbezogener Daten
 Wir verarbeiten personenbezogene Daten, die Sie uns freiwillig zur Verfügung stellen, wie zum Beispiel:
 
-Vor- und Nachname
-E-Mail-Adresse
-Telefonnummer
-Rechnungs- und Lieferadresse
+Nickname
+
+Eingegebene Träume
+
+Bereitgestellte Traumanalysen
+
 Die Bereitstellung dieser Daten ist notwendig, um unsere Dienstleistungen erbringen oder auf Anfragen antworten zu können.
 
 ## 3. Zwecke der Datenverarbeitung
