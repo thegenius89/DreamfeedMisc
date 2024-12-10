@@ -9,8 +9,11 @@ Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarb
 
 ## 1. Verantwortliche Stelle
 Verantwortlich für die Datenverarbeitung:
+
 Thure Foken
+
 Bothfelder Srt. 8
+
 thurefoken@gmail.com
 
 ## 2. Erhebung und Verarbeitung personenbezogener Daten
