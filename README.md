@@ -3,9 +3,9 @@
 </head>
 <body>
 
-## Datenschutzerklärung
+## Datenschutzerklärung Dream Feed
 ## Einleitung
-Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In dieser Datenschutzerklärung informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
+Der Schutz Ihrer persönlichen Daten in unsderer Traum-App ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In dieser Datenschutzerklärung informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
 
 ## 1. Verantwortliche Stelle
 Verantwortlich für die Datenverarbeitung:
@@ -14,31 +14,33 @@ Thure Foken
 
 Bothfelder Srt. 8
 
+30177 Hannover
+
+Deutschland
+
 thurefoken@gmail.com
 
 ## 2. Erhebung und Verarbeitung personenbezogener Daten
-Wir verarbeiten personenbezogene Daten, die Sie uns freiwillig zur Verfügung stellen, wie zum Beispiel:
+Wir verarbeiten Daten, die Sie uns freiwillig zur Verfügung stellen, auf anonyme Weise, wie zum Beispiel:
 
-Nickname
+Nickname, Alter, Eingegebene Träume
 
-Eingegebene Träume
+Die Bereitstellung dieser Daten ist notwendig, um die Funktionalität der App zu gewährleisten.
 
-Bereitgestellte Traumanalysen
-
-Die Bereitstellung dieser Daten ist notwendig, um unsere Dienstleistungen erbringen oder auf Anfragen antworten zu können.
+Die App zieht keinerlei personenbezogenen Daten heran und verlangt auch keinerlei Eingabe dieser.
 
 ## 3. Zwecke der Datenverarbeitung
 Ihre Daten werden für folgende Zwecke verwendet:
 
-Erfüllung von vertraglichen Verpflichtungen
-
-Bearbeitung von Anfragen und Kommunikation
+Funktionalität der Traum-App
 
 ## 4. Weitergabe an Dritte
-Ihre personenbezogenen Daten werden nicht ohne Ihre ausdrückliche Zustimmung an Dritte weitergegeben, es sei denn, dies ist zur Vertragserfüllung erforderlich (z. B. Versanddienstleister, Zahlungsanbieter) oder wir sind gesetzlich dazu verpflichtet.
+Ihre personenbezogenen Daten werden nicht an Dritte weitergegeben. Die anonymisierten Daten werden ausschließlich zwischen den für die App bereitgestellten Servern und den Endgeräten ausgetauscht.
 
 ## 5. Speicherung und Löschung der Daten
-Wir speichern Ihre personenbezogenen Daten nur so lange, wie dies für die Erfüllung der oben genannten Zwecke erforderlich ist oder gesetzliche Aufbewahrungsfristen bestehen. Nach Ablauf dieser Fristen werden Ihre Daten gelöscht.
+Wir speichern Ihre erzeugten anonymen Daten nur so lange, wie dies für die Erfüllung der oben genannten Zwecke erforderlich ist oder gesetzliche Aufbewahrungsfristen bestehen. Nach Ablauf dieser Fristen werden Ihre erzeugten Daten gelöscht.
+Bei der Deinstallation der Traum-App werden veröffentlichte Träume und Kommentare erst nach 90 Tagen aus dem öffentlichen Feed verschwinden, da keine personenbezogene oder gerätebezogene Verbindung mehr besteht.
+Solange die App isntalliert ist, besteht eine Zuordnung zwischen dem Gerät und dem Server um die Funktionalität der App zu gewährleisten.
 
 ## 6. Ihre Rechte
 Ihnen stehen grundsätzlich folgende Rechte zu:
@@ -121,6 +123,17 @@ Werbung, Spam oder anderweitig unerwünschte Inhalte enthalten.
 8.1 Sollten einzelne Bestimmungen dieser AGB unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
 
 8.2 Es gilt das Recht der Bundesrepublik Deutschland. Gerichtsstand ist [Standort des Betreibers], sofern gesetzlich zulässig.
+
+
+
+
+## Impressum
+
+Thure Foken
+Bothfelder Str.8
+30177 Hannover
+Deutschland
+thufoken@gmail.com
 
 </body>
 </html>
