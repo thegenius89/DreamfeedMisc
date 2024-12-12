@@ -61,8 +61,9 @@ Um eines dieser Rechte geltend zu machen, wenden Sie sich bitte an:
 
 thurefoken@gmail.com
 
-
-
+<br>
+<br>
+<br>
 
 ## Allgemeine Geschäftsbedingungen (AGB)
 
@@ -124,6 +125,7 @@ Werbung, Spam oder anderweitig unerwünschte Inhalte enthalten.
 
 8.2 Es gilt das Recht der Bundesrepublik Deutschland. Gerichtsstand ist [Standort des Betreibers], sofern gesetzlich zulässig.
 
+<br>
 <br>
 <br>
 
