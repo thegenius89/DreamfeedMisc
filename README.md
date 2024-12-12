@@ -124,15 +124,19 @@ Werbung, Spam oder anderweitig unerwünschte Inhalte enthalten.
 
 8.2 Es gilt das Recht der Bundesrepublik Deutschland. Gerichtsstand ist [Standort des Betreibers], sofern gesetzlich zulässig.
 
-
-
+<br>
+<br>
 
 ## Impressum
 
 Thure Foken
+
 Bothfelder Str.8
+
 30177 Hannover
+
 Deutschland
+
 thufoken@gmail.com
 
 </body>
