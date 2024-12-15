@@ -5,7 +5,7 @@
 
 ## Datenschutzerklärung Dream Feed
 ## Einleitung
-Der Schutz Ihrer persönlichen Daten in unsderer Traum-App ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In dieser Datenschutzerklärung informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
+Der Schutz Ihrer persönlichen Daten in unsderer Traum-App ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In dieser Datenschutzerklärung informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer App.
 
 ## 1. Verantwortliche Stelle
 Verantwortlich für die Datenverarbeitung:
@@ -69,7 +69,7 @@ thurefoken@gmail.com
 
 ## 1. Anwendungsbereich
 
-1.1 Diese Allgemeinen Geschäftsbedingungen (AGB) regeln die Nutzung der App [Name der App] (im Folgenden „App“), bereitgestellt von [Name des Betreibers, Adresse, Kontaktinformationen].
+1.1 Diese Allgemeinen Geschäftsbedingungen (AGB) regeln die Nutzung der App Dream Feed (im Folgenden „App“), bereitgestellt von siehe unten (Impressum).
 
 1.2 Mit der Nutzung der App erklärst du dich mit diesen AGB einverstanden. Wenn du mit den AGB nicht einverstanden bist, darfst du die App nicht nutzen.
 
